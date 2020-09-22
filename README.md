@@ -1,7 +1,7 @@
-# timelog
+# jupyter-timetracker
 
 ## What is it?
-`timelog` is a powerful python library to track, manage and analyse your time. The goal of this library to easily track your time spent in various activities and get to know more about yourself in a way that which activities you do most in a day. Also it can keep track of your daily activities for years, decades or so long. If you are too obsessive about utilising every single second of your life, it can keep track of each second of your life. Also, if you are lazy and want to track only 2-3 important activities, then you can do that also by entering those activities that matters to you.
+`jupyter-timetracker` is a powerful python library to track, manage and analyse your time. The goal of this library to easily track your time spent in various activities and get to know more about yourself in a way that which activities you do most in a day. Also it can keep track of your daily activities for years, decades or so long. If you are too obsessive about utilising every single second of your life, it can keep track of each second of your life. Also, if you are lazy and want to track only 2-3 important activities, then you can do that also by entering those activities that matters to you.
 
 ## Main Features
 Here are just a few of the things that timelog does vey well :
@@ -20,13 +20,13 @@ In short, You will get a clear picture of how you spend your time in a day, in a
 ## Timesheet
 Timesheet is basically the main database which has all records of your entered activities. It has 5 colums, Activity Name, From ( start time ), To ( Stop Time), Notes ( optional), Duration. Duration will automatically be calculated based on your start and stop time. You need only to select your activity from the drop down Menu and enter your start and stop time. Optionally, you can add your remarks/comments in the form of notes. Below is the screenshot of my own timesheet that I have been using since August 2019. Now as you can see my timesheet database has grown up in size having more than 10000 entries and still working fine.
 
-![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/timelog/master/docs/static/images/Screenshot_2020-09-20_22-43-03.png)
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_2020-09-20_22-43-03.png)
 
 **Note** : If you are working on your desktop, then you don't need to enter even start and stop time, you can go in *timer* tab, select an activity and click on *green* icon. It will take start time from your system's clock. When you finished your activity just click on *red* icon to stop as you can see in the above timesheet.
 
 ## Installation
 1. Make sure that you have Installed Anaconda Python in your System.
-2. run `pip install timelog` from anaconda command prompt or linux terminal
+2. run `pip install jupyter-timetracker` from anaconda command prompt or linux terminal
 
 
 ## To Run
@@ -34,16 +34,16 @@ Timesheet is basically the main database which has all records of your entered a
 1. Open Jupyter Notebook and create a new Python 3 Notebook
 
 2. Run the following Lines  
-        `import timelog`  
-        `timelog.timelog()`
+        `import timetracker`  
+        `timetracker.track()`
 
 3. A widget shoud appear for manual entry. Manually enter your first time entry for example you can enter Time spent to install and run this libray)
-![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/timelog/master/docs/static/images/Screenshot_first_run.png)
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_first_run.png)
 
 4. Run the cell again by `Ctrl+Enter`
 
 5. A new widget having multiple tabs should have opened (like shown below ). Now you can enjoy tracking your time.
-![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/timelog/master/docs/static/images/Screenshot_second_run.png)
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_second_run.png)
 
 The first 3 lines tell you the status about whether you have imported past csv report of *atimelogger* app. If you don't use that app, then you can safely ignore these notifications. 
 
