@@ -7,7 +7,7 @@
 Here are just a few of the things that timelog does vey well :
   - **Ease of use** : To use this library, you **need not require knowledge of any programming language**. Think of it as a software where you just have to click on a few buttons and your work is done. The user interface is very simple, easy to use and self explanatory.
   - **Can record your all activities involving time**, you don't have to worry about having a handwritten timesheet, habit tracker etc. Use this library in your own creative ways.
-  - **Parovison of Manual Entry** :If you forget to track your activity in real time, but your remember some activities of the past then you can also manuall eneter all of your past activities.
+  - **Provison of Manual Entry** :If you forget to track your activity in real time, but your remember some activities of the past then you can also manuall eneter all of your past activities.
   - **Modifying past data** : You can always edit/insert/delete any of your time entries in the past
   - **Powerful Analysis** : You can analyse how you spent your time for a particular duration on a bar chart as well as in a time matrix form let you know that on which hours of day you do that activity.
   - **Know your History** : After months of time logging, you can always look at a particular date in the past and view all the time entries of it along with the totla duration of your each activity.
