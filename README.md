@@ -27,6 +27,7 @@ Timesheet is basically the main database which has all records of your entered a
 ## Installation
 1. Make sure that you have Installed Anaconda Python in your System.
 2. run `pip install jupyter-timetracker` from anaconda command prompt or linux terminal
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_install.png)
 
 
 ## To Run
