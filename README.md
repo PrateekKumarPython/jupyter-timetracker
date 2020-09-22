@@ -27,7 +27,7 @@ Timesheet is basically the main database which has all records of your entered a
 ## Installation
 1. Make sure that you have Installed Anaconda Python in your System.
 2. run `pip install jupyter-timetracker` from anaconda command prompt or linux terminal
-![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_install.png)
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot0.png)
 
 
 ## To Run
@@ -39,12 +39,12 @@ Timesheet is basically the main database which has all records of your entered a
         `timetracker.track()`
 
 3. A widget shoud appear for manual entry. Manually enter your first time entry for example you can enter Time spent to install and run this libray)
-![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_first_run.png)
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot1.png)
 
 4. Run the cell again by `Ctrl+Enter`
 
 5. A new widget having multiple tabs should have opened (like shown below ). Now you can enjoy tracking your time.
-![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot_second_run.png)
+![Timesheet](https://raw.githubusercontent.com/PrateekKumarPython/jupyter-timetracker/master/docs/static/images/Screenshot2.png)
 
 The first 3 lines tell you the status about whether you have imported past csv report of *atimelogger* app. If you don't use that app, then you can safely ignore these notifications. 
 
