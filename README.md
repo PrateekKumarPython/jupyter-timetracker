@@ -4,7 +4,7 @@
 `jupyter-timetracker` is a powerful python library to track, manage and analyse your time. The goal of this library to easily track your time spent in various activities and get to know more about yourself in a way that which activities you do most in a day. Also it can keep track of your daily activities for years, decades or so long. If you are too obsessive about utilising every single second of your life, it can keep track of each second of your life. Also, if you are lazy and want to track only 2-3 important activities, then you can do that also by entering those activities that matters to you.
 
 ## Main Features
-Here are just a few of the things that timelog does vey well :
+Here are just a few of the things that `jupyter-timetracker` does vey well :
   - **Ease of use** : To use this library, you **need not require knowledge of any programming language**. Think of it as a software where you just have to click on a few buttons and your work is done. The user interface is very simple, easy to use and self explanatory.
   - **Can record your all activities involving time**, you don't have to worry about having a handwritten timesheet, habit tracker etc. Use this library in your own creative ways.
   - **Provison of Manual Entry** :If you forget to track your activity in real time, but your remember some activities of the past then you can also manuall eneter all of your past activities.
