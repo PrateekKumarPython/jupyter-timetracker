@@ -1,5 +1,6 @@
 # jupyter-timetracker : Time Management in a Pythonic Way
-Watch this demo video
+
+## Watch jupyter-timetracker running
 [![jupyter-timetracker](http://img.youtube.com/vi/Cle38WncY2o/0.jpg)](https://www.youtube.com/watch?v=Cle38WncY2o "jupyter-timetracker")
 
 ## What is it?
