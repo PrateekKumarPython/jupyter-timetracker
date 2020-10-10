@@ -53,4 +53,4 @@ The first 3 lines tell you the status about whether you have imported past csv r
 
 Enjoy tracking your time.   
 
-If you find any bug in this or you want to share your time tracking experience with me.You can always do that by mailing me at prateekongithib@gmail.com
+If you find any bug in this or you want to share your time tracking experience with me.You can always do that by mailing me at prateekongithub@gmail.com
